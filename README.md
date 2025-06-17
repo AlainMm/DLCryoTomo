@@ -23,6 +23,12 @@ You can run the notebook using either of the following platforms:
 2. Launch Jupyter Notebook in the directory containing the notebook.
 3. Run the notebook cells. The required packages will be installed via `!pip install` commands included in the notebook.
 
+## 🔗 Large File Download
+
+Due to GitHub size limitations, the full weights/model are available here:
+
+👉 [Download from Google Drive](https://drive.google.com/file/d/1BDyfdXhv2_oRX-EJF7ShEXSok032exGv/view?usp=drive_link)
+
 ---
 
 ### 📦 Requirements
