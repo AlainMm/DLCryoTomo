@@ -38,5 +38,5 @@ You can run the notebook using either of the following platforms:
 ### 📄 Reference
 
 A. Morales-Martínez, E. Garduño, J. M. Carazo, C. O. Sorzano Sánchez, and J. L. Vilas,  
-“*Membrane and vesicle structure estimation in cryo-electron tomography based on deep learning*,” unpublished manuscript, in preparation, 2025.
+“*Membrane and vesicle structure detection in cryo-electron tomography based on deep learning*,” unpublished manuscript, in preparation, 2025.
 
